@@ -15,27 +15,6 @@ Welcome to the **Drum Kit**! This is a fun and interactive web-based drum machin
 
 ---
 
-## 📁 Project Structure
-
-```
-drum-kit/
-│
-├── index.html         # Main HTML file with structure of the app
-├── styles.css         # Styling of the drum kit interface
-├── index.js           # JavaScript logic (event listeners, sound playback, animations)
-├── sounds/            # Folder containing all drum sounds
-│   ├── tom-1.mp3
-│   ├── tom-2.mp3
-│   ├── tom-3.mp3
-│   ├── tom-4.mp3
-│   ├── snare.mp3
-│   ├── crash.mp3
-│   └── kick-bass.mp3
-└── images/            # Optional drum images used for button backgrounds
-```
-
----
-
 ## ✨ Technologies Used
 
 - HTML5  
